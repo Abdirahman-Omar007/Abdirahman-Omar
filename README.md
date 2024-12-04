@@ -19,7 +19,8 @@ Featured Projects
 
 Data Science Phase 1 Project:
 Description: A hands-on project where I explored and visualized datasets, performed data cleaning, and built machine learning models.
-📝 Repository Link
+
+📝 Repository Link:  git@github.com:Abdirahman-Omar007/dsc-phase-1-project-v3.git
 
 Contact
 
